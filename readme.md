@@ -76,13 +76,13 @@ Get an element and remove it from the array using the "dot" notation.
 
 Get the first element from an array.
 
-`array array_first(array &$array, [, mixed $default = null])`
+`array array_first(array $array, [, mixed $default = null])`
 
 #### array\_last
 
 Get the last element from an array.
 
-`array array_last(array &$array, [, mixed $default = null])`
+`array array_last(array $array, [, mixed $default = null])`
 
 #### array\_reset
 
